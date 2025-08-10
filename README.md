@@ -1,0 +1,2 @@
+# alien_invasion
+通过学习python入门编程这本书跟着练习的外星人入侵的代码
